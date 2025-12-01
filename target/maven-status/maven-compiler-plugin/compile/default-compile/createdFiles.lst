@@ -1,0 +1,14 @@
+com\agenda\backend\config\CorsConfig.class
+com\agenda\backend\dto\ClimaResponse.class
+com\agenda\backend\repository\CiudadRepository.class
+com\agenda\backend\service\UsuarioService.class
+com\agenda\backend\BackendApplication.class
+com\agenda\backend\model\Ciudad.class
+com\agenda\backend\dto\LoginRequest.class
+com\agenda\backend\repository\UsuarioRepository.class
+com\agenda\backend\service\ClimaService.class
+com\agenda\backend\controller\ClimaController.class
+com\agenda\backend\controller\UsuarioController.class
+com\agenda\backend\config\RestTemplateConfig.class
+com\agenda\backend\dto\CiudadDTO.class
+com\agenda\backend\model\Usuario.class
